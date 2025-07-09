@@ -32,7 +32,7 @@ sathvik0912-my-face-recognition-project/
 ## 🚀 Setup Instructions
 
 1. **Clone the repository** or download the code files.
-2. **Create a Python environment** (optional but recommended):
+2. **Create a Python environment** (optional):
    ```bash
    python -m venv env
    source env/bin/activate  # On Windows: env\Scripts\activate
@@ -98,3 +98,4 @@ To use your phone as a camera, update the `url` in `onphone.py` to your IP webca
 - Press `q` to quit the webcam window.
 
 ---
+##  Save images of people in a folder of and change the "path" in the code
