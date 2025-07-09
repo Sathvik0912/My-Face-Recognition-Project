@@ -1,4 +1,4 @@
-[# Face Recognition System (with Occlusion Handling and Supabase Integration)
+# Face Recognition System (with Occlusion Handling and Supabase Integration)
 
 This project is a real-time face recognition system built using Python, InsightFace, and OpenCV. It supports various modes such as occlusion handling, phone camera input, and Supabase-based login/logout tracking.
 
@@ -98,5 +98,3 @@ To use your phone as a camera, update the `url` in `onphone.py` to your IP webca
 - Press `q` to quit the webcam window.
 
 ---
-
-]
