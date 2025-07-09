@@ -98,4 +98,4 @@ To use your phone as a camera, update the `url` in `onphone.py` to your IP webca
 - Press `q` to quit the webcam window.
 
 ---
-##  Save images of people in a folder of and change the "path" in the code
+#  Save images of people in a folder named dataset, and update the "path" variable in your code to point to this folder.
