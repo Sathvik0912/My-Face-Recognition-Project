@@ -75,7 +75,7 @@ sathvik0912-my-face-recognition-project/
 ## 🧠 Model
 
 - Uses `insightface.app.FaceAnalysis` with the `buffalo_l` or `buffalo_s` model.
-- Cosine similarity is used to match embeddings between live input and dataset images.
+- Match embeddings between live input and dataset images.
 
 ---
 
